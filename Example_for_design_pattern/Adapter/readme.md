@@ -32,5 +32,3 @@
 ![类适配器模式抽象类图](./resources/Adapter_object_abstract.jpg)
 
 ---
-
-

@@ -1,3 +1,5 @@
+package framework;
+
 import java.util.HashMap;
 
 public class Manager {
@@ -10,5 +12,6 @@ public class Manager {
     public Product create(String protoname) {
         Product p = showcase.get(protoname);
         return p.createClone();
+        // return p;
     }
 }

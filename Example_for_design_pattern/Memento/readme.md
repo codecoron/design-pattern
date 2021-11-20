@@ -8,7 +8,9 @@
 
 
 > 示例类图 
+
 包 | 名字 | 说明 
+----|----|-----
 game | Memento | 表示Gamer状态的类
 game | Gamer | 表示游戏主人公的类。它会生成Memento的实例。
 无 | Main | 进行游戏的类。它会事先保存Memento的实例，之后会根据需要恢复Gamer的状态。

@@ -22,7 +22,7 @@ listfactory | ListPage | 具体零件:表示HTML页面的类
 接下来的这幅图看起来有点恐怖，但是只需要记住，抽象工厂是将抽象零件组装成抽象产品 即可。
 
 ---
-![abstract_factory](./resources/abstract_factory.jpg)
+![abstract_factory](resources/abstract_factory.jpg)
 
 ---
 

@@ -13,35 +13,35 @@
 ## 结构
 
 1. 适应设计模式
-    1. [Iterator模式](https://gitee.com/coderon_lee/design-pattern/tree/master/Example_for_design_pattern/Iterator)
-    2. [Adapter模式](https://gitee.com/coderon_lee/design-pattern/tree/master/Example_for_design_pattern/Adapter)
+    1. [Iterator模式](./Example_for_design_pattern/Iterator)
+    2. [Adapter模式](./Example_for_design_pattern/Adapter)
 2. 交给子类
-    1. [Template Method模式](https://gitee.com/coderon_lee/design-pattern/tree/master/Example_for_design_pattern/Template_Method)
-    2. [Factory Method模式](https://gitee.com/coderon_lee/design-pattern/tree/master/Example_for_design_pattern/Factory_Method)
+    1. [Template Method模式](./Example_for_design_pattern/Template_Method)
+    2. [Factory Method模式](./Example_for_design_pattern/Factory_Method)
 3. 生成实例
-    1. [Singleton模式](https://gitee.com/coderon_lee/design-pattern/tree/master/Example_for_design_pattern/Singleton)
-    2. [Prototype模式](https://gitee.com/coderon_lee/design-pattern/tree/master/Example_for_design_pattern/Prototype)
-    3. [Builder模式](https://gitee.com/coderon_lee/design-pattern/tree/master/Example_for_design_pattern/Builder)
-    4. [Abstract Factory模式](https://gitee.com/coderon_lee/design-pattern/tree/master/Example_for_design_pattern/Abstract_Factory)
+    1. [Singleton模式](./Example_for_design_pattern/Singleton)
+    2. [Prototype模式](./Example_for_design_pattern/Prototype)
+    3. [Builder模式](./Example_for_design_pattern/Builder)
+    4. [Abstract Factory模式](./Example_for_design_pattern/Abstract_Factory)
 4. 分开考虑
-    1. Bridge模式
-    2. Strategy模式
+    1. [Bridge模式](./Example_for_design_pattern/Bridge)
+    2. [Strategy模式](./Example_for_design_pattern/Strategy)
 5. 一致性
-    1. Composite模式
-    2. Decorator模式
+    1. [Composite模式](./Example_for_design_pattern/Composite)
+    2. [Decorator模式](./Example_for_design_pattern/Decorator)
 6. 访问数据结构
-    1. Vistor模式
-    2. Chain of Resposibility模式(责任链)
+    1. [Vistor模式](./Example_for_design_pattern/Vistor)
+    2. [Chain_of_Resposibility模式(责任链)](./Example_for_design_pattern/Chain_of_Responsibility)
 7. 简单化
-    1. Facade模式(外观窗口)
-    2. Mediator模式(调节者)
+    1. [Facade模式(外观窗口)](./Example_for_design_pattern/Facade)
+    2. [Mediator模式(调节者)](./Example_for_design_pattern/Mediator)
 8. 管理状态
-    1. Observer模式(观察者)
-    2. Memento模式(纪念品，保存对象状态)
-    3. State模式(用类表示状态)
+    1. [Observer模式(观察者)](./Example_for_design_pattern/Observer)
+    2. [Memento模式(纪念品，保存对象状态)](./Example_for_design_pattern/Memento)
+    3. [State模式(用类表示状态)](./Example_for_design_pattern/State)
 9. 避免浪费
-    1. Flyweight模式(共享对象)
-    2. Proxy模式(代理)
+    1. [Flyweight模式(共享对象)](./Example_for_design_pattern/Flyweight)
+    2. [Proxy模式(代理)](./Example_for_design_pattern/Proxy)
 10. 用类来表现
     1. Command模式
     2. Interpreter模式(解释，语法)
